@@ -1,0 +1,39 @@
+{
+  "coord": { "lon": 2.35, "lat": 48.86 },
+  "weather": [
+    { "id": 501, "main": "Rain", "description": "moderate rain", "icon": "10n" }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 15.71,
+    "pressure": 1006,
+    "humidity": 87,
+    "temp_min": 14.44,
+    "temp_max": 17.22
+  },
+  "visibility": 10000,
+  "wind": { "speed": 5.1, "deg": 210 },
+  "clouds": { "all": 100 },
+  "dt": 1571085173,
+  "sys": {
+    "type": 1,
+    "id": 6550,
+    "message": 0.0074,
+    "country": "FR",
+    "sunrise": 1571033314,
+    "sunset": 1571072670
+  },
+  "timezone": 7200,
+  "id": 2988507,
+  "name": "Paris",
+  "cod": 200
+}
+
+{"city":{"id":2988507,"name":"Paris","coord":{"lon":2.3515,"lat":48.8566},
+"country":"FR","population":2138551,"timezone":3600},"cod":"200","message":1.0856759,"cnt":3,"list":[
+  {"dt":1572260400,"sunrise":1572244219,"sunset":1572280697,"temp":{"day":9.46,"min":8.53,"max":9.46,"night":8.53,"eve":9.46,"morn":9.46},
+  "pressure":1021,"humidity":68,"weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04n"}],"speed":4.2,"deg":55,"clouds":100},
+  {"dt":1572346800,"sunrise":1572330715,"sunset":1572366993,"temp":{"day":10.63,"min":7.97,"max":11.4,"night":7.97,"eve":9.79,"morn":8.02},
+  "pressure":1023,"humidity":57,"weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04d"}],"speed":4.7,"deg":64,"clouds":100},
+  {"dt":1572433200,"sunrise":1572417210,"sunset":1572453291,"temp":{"day":11.08,"min":5.95,"max":11.24,"night":5.95,"eve":8.78,"morn":7.32},
+  "pressure":1024,"humidity":60,"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"speed":3.25,"deg":57,"clouds":40}]}
